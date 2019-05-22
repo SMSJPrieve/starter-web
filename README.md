@@ -5,5 +5,7 @@ adding more stuff
 ## Purpose
 
 ## How To Contribute
+this is moving too fast to do while listening
 
 ## fun stuff
+more changes
